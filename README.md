@@ -32,6 +32,6 @@
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula&card_width=320" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula&card_width=200" />
   </a>
 </p>
