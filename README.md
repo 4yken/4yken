@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/960a701f-34a0-458a-8419-e59d272ae3eb)
 
-### 👨🏻‍💻 &nbsp;About Me:
+### 👨🏽‍💻 &nbsp;About Me:
 
 - 🎓&nbsp;I’m currently studying Engineering in Software Development and Management.
 - 🎨&nbsp;I’m also a Digital Graphic Design Technician.
@@ -11,17 +11,27 @@
 
 ### 🛠️ &nbsp;Languages and Tools:
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,angular,laravel,arduino,nodejs,tailwind,mysql,firebase,git,github,ai,figma,xd,ps,vscode&perline=10)](https://skillicons.dev)
-<!--
-**4yken/4yken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ☎️ Contact Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-emmanuel-almaraz-pérez-8417382bb" target="blank">
+    <img align="center"
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="4yken" height="30" /></a>
+  <a href="mailto:almaraz.contac@gmail.com" target="blank"><img align="center"
+      src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="4yken"
+      height="30" /></a>
+</p>
+
+### 📊 GitHub Stats:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center"
+      src="https://github-readme-stats.vercel.app/api?username=4yken&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula&card_width=320" />
+  </a>
+</p>
