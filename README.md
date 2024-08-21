@@ -26,12 +26,16 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center"
+  <a href="https://github.com/4yken">
+    <img align="center"
       src="https://github-readme-stats.vercel.app/api?username=4yken&show_icons=true&theme=dracula" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula&card_width=200" />
+  <a href="https://github.com/4yken">
+    <img height=195 align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula" />
+  </a>
+  <a href="https://github.com/4yken">
+    <img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=4yken&theme=dracula" />
   </a>
 </p>
