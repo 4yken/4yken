@@ -27,11 +27,11 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/4yken">
-    <img align="center"
+    <img align="left"
       src="https://github-readme-stats.vercel.app/api?username=4yken&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/4yken">
-    <img height=195 align="center"
+    <img height=195 align="right"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yken&layout=compact&theme=dracula" />
   </a>
   <a href="https://github.com/4yken">
