@@ -13,12 +13,11 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,angular,laravel,arduino,nodejs,tailwind,mysql,firebase,git,github,ai,figma,xd,ps,vscode&perline=10)](https://skillicons.dev)
 
 ### ☎️ Contact Me:
-<p align="center">
-    <a href="https://www.linkedin.com/in/carlos-emmanuel-almaraz-pérez-8417382bb" target="blank">
-        <img align="center"
+<p align="left">
+    <a href="https://www.linkedin.com/in/carlos-emmanuel-almaraz-pérez-8417382bb" target="blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="4yken" height="30" /></a>
-    <a href="mailto:almaraz.contac@gmail.com" target="blank"><img align="center"
+    <a href="mailto:almaraz.contac@gmail.com" target="blank"><img
             src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
             alt="4yken" height="30" /></a>
 </p>
