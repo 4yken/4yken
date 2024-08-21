@@ -14,10 +14,10 @@
 
 ### ☎️ Contact Me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/carlos-emmanuel-almaraz-pérez-8417382bb" target="blank"><img
+    <a href="https://www.linkedin.com/in/carlos-emmanuel-almaraz-pérez-8417382bb" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="4yken" height="30" /></a>
-    <a href="mailto:almaraz.contac@gmail.com" target="blank"><img
+    <a href="mailto:almaraz.contac@gmail.com" target="_blank"><img
             src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
             alt="4yken" height="30" /></a>
 </p>
